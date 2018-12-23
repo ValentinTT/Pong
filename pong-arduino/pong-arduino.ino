@@ -3,8 +3,8 @@
 Sat 17 January 2016 17:45:00
 Coded by Valentin TT
 */
-const int Trig = 2; 
-const int Echo = 3;
+const int Trig = 6; 
+const int Echo = 5;
 const int cerca = 4;
 const int lejos = 5;
 
